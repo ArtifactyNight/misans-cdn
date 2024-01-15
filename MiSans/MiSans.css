@@ -1,16 +1,16 @@
 @font-face {
-  font-family: 'MiSans Latin';
-  src: url('./fonts/MiSansLatinVF.woff2') format('woff2'),
-      url('./fonts/MiSansLatinVF.woff') format('woff');
+  font-family: 'MiSans Latin VF';
+  src: url('MiSansLatinVF.woff2') format('woff2'),
+      url('MiSansLatinVF.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'MiSans Thai';
-  src: url('./fonts/MiSansThaiVF.woff2') format('woff2'),
-      url('./fonts/MiSansThaiVF.woff') format('woff');
+  font-family: 'MiSans Thai VF';
+  src: url('MiSansThaiVF.woff2') format('woff2'),
+      url('MiSansThaiVF.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
